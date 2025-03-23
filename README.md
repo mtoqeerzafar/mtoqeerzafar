@@ -63,5 +63,5 @@ I thrive on solving complex problems and continuously seek opportunities to enha
 ## 📜 Certifications
 
 - 🎓 **Deep Learning Specialization** – [View Certificate](https://coursera.org/share/7496100532775e00c6405591c9fa4eff)
-- **[Google AI Essentials](https://coursera.org/share/4343f7e1e6ba773b21e20c1a95644beb)**
+- 🎓 **Google AI Essentials** - [Google AI Essentials](https://coursera.org/share/4343f7e1e6ba773b21e20c1a95644beb)
 ---
