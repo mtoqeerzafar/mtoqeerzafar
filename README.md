@@ -7,7 +7,6 @@
 ## 🚀 About Me  
 
 I am **Muhammad Toqeer Zafar**, a **Data Science student at Punjab University College of Information Technology (PUCIT)** with a deep passion for **Artificial Intelligence (AI) and Machine Learning (ML)**. My primary focus is on leveraging **Machine Learning for predictive analytics**, particularly in financial markets and technological innovations.  
-
 I thrive on solving complex problems and continuously seek opportunities to enhance my technical expertise. My goal is to contribute to the ever-evolving field of **data science and AI-driven decision-making**, while also exploring advancements in **technology and automation** to drive impactful solutions.
 
 
